@@ -1,0 +1,28 @@
+#productItems {
+  background-color: #cfe1ff;
+  float: left;
+  width: 63%;
+}
+
+.item {
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+  width: 30%;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.item:hover {
+  transform: translateY(-2px);
+}
+
+.add {
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  float: right;
+}
+
