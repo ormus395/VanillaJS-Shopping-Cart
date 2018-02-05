@@ -2,7 +2,32 @@ body {
   background-color: #fff;
 }
 
+img {
+  width: 100px;
+  height: 100px;
+}
+
 .container {
   width: 100vw;
   height: 100vh;
+}
+
+button {
+  font-size: 15px;
+  margin: 0 15px;
+  padding: 5px 15px;
+  transition: 0.2s;
+  border: 1px solid grey;
+  background-color: #cfe1ff;
+  border:none;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+button:active {
+  transform: translateY(0)
 }

@@ -1,5 +1,5 @@
 [
-  {"id": 0, "title": "Shoes", "price": 60},
-  {"id": 1, "title": "Book", "price": 35},
-  {"id": 2, "title": "Food", "price": 100}
+  {"id": 0, "img": "https://images.vans.com/is/image/Vans/XG8DJ6-HERO?$583x583$", "title": "Shoes", "price": 60},
+  {"id": 1,  "img": "https://cdn.shopify.com/s/files/1/0051/7692/products/aba-000020-pp-5_660x@2x.progressive.jpg?v=1482334142", "title": "Book", "price": 35},
+  {"id": 2, "img": "http://zapopanmexicanfood.com/wp-content/uploads/2014/07/imagebg_04-1200x850.jpg", "title": "Food", "price": 100}
 ]
